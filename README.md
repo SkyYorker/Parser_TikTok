@@ -19,7 +19,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <repository_url>
+git clone <[repository_url](https://github.com/SkyYorker/Parser_TikTok)>
 cd Parser_TikTok_test
 ```
 
